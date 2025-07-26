@@ -19,14 +19,6 @@ Ce portfolio présente :
 - **Boxicons** - Icônes vectorielles
 - **Typed.js** - Effet de machine à écrire
 
-## 📱 Fonctionnalités
-
-✅ Design responsive (mobile-first)  
-✅ Animations CSS fluides  
-✅ Effet de frappe dynamique  
-✅ Formulaire de contact fonctionnel  
-✅ Navigation fluide entre sections  
-✅ Optimisé pour les performances  
 
 ## 🎯 Projets Présentés
 
